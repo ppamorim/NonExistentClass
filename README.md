@@ -1,0 +1,2 @@
+# NonExistentClass
+Dagger + Kotlin = NonExistentClass
